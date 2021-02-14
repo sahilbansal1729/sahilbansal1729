@@ -10,4 +10,4 @@
 - 😄 Pronouns: He / His
 - ⚡ My Superhero: DEADPOOL
 - <img src="/twitter-logo1.png" width="20" height="20"> [sahilbansal1729](https://twitter.com/sahilbansal1729)
-- <img src="/linkedin-logo.png" width="40" height="20"> [sahil200992](https://www.linkedin.com/in/sahil200992/)
+- <img src="/linkedin-logo .png" width="40" height="20"> [sahil200992](https://www.linkedin.com/in/sahil200992/)
