@@ -9,5 +9,5 @@
 - 📫 How to reach me: sahil200992@gmail.com
 - 😄 Pronouns: He / His
 - ⚡ My Superhero: DEADPOOL
-- <img src="https://www.soroptimistinternational.org/twitter-for-beginners/251-2517877_tweet-twitter-icon-icon-chirrup-icon-icon-twitter-png-format-twitter-logo/#" width="20" height="20"> [sahilbansal1729](https://twitter.com/sahilbansal1729)
+- <img src="/twitter-logo1.png" width="20" height="20"> [sahilbansal1729](https://twitter.com/sahilbansal1729)
 
