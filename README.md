@@ -1,5 +1,8 @@
 ### Hi , I am Sahil Bansal 👋
 
+<h1>
+  RESUME
+  </h1>
 
 - 🔭 I’m currently working on my Python and analytics skills.
 - 👯 I’m looking to collaborate on Python or data related projects.
