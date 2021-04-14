@@ -3,7 +3,7 @@
 <h2>
   RESUME
   </h2>
-  <a href = "https://drive.google.com/file/d/11Aly7hIGoyPzznsHCwy34r6zVDdSn2Od/view?usp=sharing">Click here for my updated resume</a>
+  <a href = "https://drive.google.com/file/d/11Aly7hIGoyPzznsHCwy34r6zVDdSn2Od/view?usp=sharing" target = _blank>Click here for my updated resume</a>
 
 - 🔭 I’m currently working on my Python and analytics skills.
 - 👯 I’m looking to collaborate on Python or data related projects.
