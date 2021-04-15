@@ -14,5 +14,5 @@
 
 <h3>
   RESUME
-  </h3>
+</h3>
   <a href = "https://drive.google.com/file/d/11Aly7hIGoyPzznsHCwy34r6zVDdSn2Od/view?usp=sharing" target="_blank">Click here for my updated resume</a>
